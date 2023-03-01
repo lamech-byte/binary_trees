@@ -259,4 +259,4 @@ Function Prototypes
 
 ## Authors :black_nib:
 
-* __Lamech Momanyi__ <[Lamech](gesachmoh@gmail.com)>
+* __Lamech Momanyi__ <[Lamech](https://github.com/lamech-byte/binary_trees/)>
